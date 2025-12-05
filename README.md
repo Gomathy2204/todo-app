@@ -89,7 +89,7 @@ Open:
 
 frontend/to-dolist.html
 
-http://localhost:8080/Frontend/to-dolist.html
+
 
 
 Or run using Live Server.
